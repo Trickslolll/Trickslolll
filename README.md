@@ -1,7 +1,7 @@
 <div id="header" align="left">
   
   <h1>
-  Hi there
+  Hi there I'm Patrick
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
