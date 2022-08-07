@@ -1,7 +1,20 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
+<div id="header" align="left">
   
-  <div id="badges">
+  <h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+  <div>
+    <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
+  </div>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+<div id="badges">
     <a href="https://www.linkedin.com/in/%E5%AD%90%E6%A6%86-%E5%91%A8-4156b2247/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -13,25 +26,13 @@
     </a>
   </div>
   
-  <h1 align="center">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
-  <div align="center">
-    <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
-  </div>
-</div>
-
----
-
-### :man_technologist: About Me :
-
 Hi ! I'm **Patrick Chou**! I'm currently a senior from NUTN :thought_balloon:
 
 - :zap: In my free time, I like to solve problems on leetcode, playing piano:musical_keyboard:, video games:video_game:, and watching Formula 1:racing_car:.
 
 - 🌱 I’m currently learning **C#, Algorithm, Linear Algebra**
+
+<img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100" align="right"/>
 
 - :pushpin: In the furture, I want to be a game developer or a system designer
 
