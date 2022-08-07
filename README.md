@@ -13,7 +13,7 @@
     </a>
   </div>
   
-  <h1>
+  <h1 align="center">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-Hi ! I'm **Patrick**! I'm currently a senior from NUTN :thought_balloon:
+Hi ! I'm **Patrick Chou**! I'm currently a senior from NUTN :thought_balloon:
 
 - :zap: In my free time, I like to solve problems on leetcode, playing piano:musical_keyboard:, video games:video_game:, and watching Formula 1:racing_car:.
 
