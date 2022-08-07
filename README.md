@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Patrick Chou</h1>
-<h3 align="center">A senior form NUTN</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
+  
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/%E5%AD%90%E6%A6%86-%E5%91%A8-4156b2247/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/chou_6623/"> 
+      <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://twitter.com/Trickslolll">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
+
+## Hi there👋
+I'm **Patrick**! I'm current a senior from NUTN, 
+
 
 - 🌱 I’m currently learning **Machine Learing, C#**
 
