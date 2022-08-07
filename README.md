@@ -27,21 +27,21 @@
 
 ### :man_technologist: About Me :
 
-Hi !I'm **Patrick**! I'm currently a senior from NUTN :thought_balloon:
+Hi ! I'm **Patrick**! I'm currently a senior from NUTN :thought_balloon:
 
 - :zap: In my free time, I like to solve problems on leetcode, playing piano:musical_keyboard:, video games:video_game:, and watching Formula 1:racing_car:.
 
 - 🌱 I’m currently learning **C#, Algorithm, Linear Algebra**
 
-- 📫 How to reach me: **chou6623@gmail.com**
-
 - :pushpin: In the furture, I want to be a game developer or a system designer
 
-- :paperclip: I'm also trying to become an entry-level IT Support Specialist and current learning it from coursera
+- :checkered_flag: I'm also trying to become an entry-level IT Support Specialist and current learning it from coursera
+
+- 📫 How to reach me: **chou6623@gmail.com**
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :toolbox: Languages and Tools :
 <div align="left"> 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
