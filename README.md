@@ -6,7 +6,7 @@
   </h1>
   
   <div>
-    <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
+    <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif">
   </div>
 </div>
 
