@@ -26,11 +26,11 @@
     </a>
   </div>
   
-Hi ! I'm **Patrick Chou**! I'm currently a senior from NUTN :thought_balloon:
+Hi ! I'm **Patrick C**! I'm currently a senior from NUTN :thought_balloon:
 
 - :zap: In my free time, I like to solve problems on leetcode, playing piano:musical_keyboard:, video games:video_game:, and watching Formula 1:racing_car:.
 
-- 🌱 I’m currently learning **C#, Algorithm, Linear Algebra**
+- 🌱 I’m currently learning **Information security**
 
 <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100" align="right"/>
 
