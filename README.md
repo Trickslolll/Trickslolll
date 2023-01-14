@@ -26,7 +26,7 @@
     </a>
   </div>
   
-Hi ! I'm **Patrick C**! I'm currently a senior from NUTN :thought_balloon:
+Hi ! I'm **Patrick CHOU**! I'm currently a senior from NUTN :thought_balloon:
 
 - :zap: In my free time, I like to solve problems on leetcode, playing piano:musical_keyboard:, video games:video_game:, and watching Formula 1:racing_car:.
 
