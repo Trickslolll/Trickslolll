@@ -26,15 +26,15 @@
     </a>
   </div>
   
-Hi ! I'm **Patrick CHOU**! I'm currently a senior from NUTN :thought_balloon:
+Hi ! I'm **Patrick**! I'm currently a senior from NUTN :thought_balloon:
 
-- :zap: In my free time, I like to solve problems on leetcode, playing piano:musical_keyboard:, video games:video_game:, and watching Formula 1:racing_car:.
+- :zap: When I'm free, I like to solve problems on leetcode, play piano:musical_keyboard:, video games:video_game:, and watch Formula 1:racing_car:.
 
-- 🌱 I’m currently learning **Information security**
+- 🌱 I’m currently learning **Information security** & **R Language**
 
 <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100" align="right"/>
 
-- :pushpin: In the furture, I want to be a game developer or a system designer
+- :pushpin: In the furture, I would like to be a game developer or a system designer
 
 - :checkered_flag: I'm also trying to become an entry-level IT Support Specialist and current learning it from coursera
 
