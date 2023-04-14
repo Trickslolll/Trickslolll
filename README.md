@@ -30,7 +30,7 @@ Hi ! I'm **Patrick**! I'm currently a senior from NUTN :thought_balloon:
 
 - :zap: When I'm free, I like to solve problems on leetcode, play piano:musical_keyboard:, video games:video_game:, and watch Formula 1:racing_car:.
 
-- 🌱 I’m currently learning **Information security** & **R Language**
+- 🌱 I’m currently learning **Information Technology**
 
 <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100" align="right"/>
 
