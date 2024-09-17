@@ -21,22 +21,19 @@
     <a href="https://www.instagram.com/chou_6623/"> 
       <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://twitter.com/Trickslolll">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   
-Hi ! I'm **Patrick**! I'm currently a senior from NUTN :thought_balloon:
+Hi ! I'm **Patrick**! I'm currently a master student in NTUT :thought_balloon:
 
 - :zap: When I'm free, I like to solve problems on leetcode, play piano:musical_keyboard:, video games:video_game:, and watch Formula 1:racing_car:.
 
-- 🌱 I’m currently learning **Information Technology**
+- 🌱 I’m currently **learning cybersecurity**
 
 <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100" align="right"/>
 
-- :pushpin: In the furture, I would like to be a game developer or a system designer
+- :pushpin: In the furture, I would like to be a game developer or a system designer 
 
-- :checkered_flag: I'm also trying to become an entry-level IT Support Specialist and current learning it from coursera
+- :checkered_flag: I'm also an IT Support Specialist approved by Google through Coursera
 
 - 📫 How to reach me: **chou6623@gmail.com**
 
